@@ -1,0 +1,839 @@
+{
+  "branding": [
+    {
+      "slug": "tarongea",
+      "title": "Tarongea",
+      "category": "Branding & Communication",
+      "subtitle": "Taste Valencia",
+      "year": "2020",
+      "featured": true,
+
+      "thumbnail": "media/branding/tarongea/tarongea",
+
+      "hero": {
+        "logo": "media/branding/tarongea/logo-tarongea.svg",
+        "image": "media/branding/tarongea/hero.jpg",
+
+        "description": "Tarongea was born from the need to modernize a family business dedicated to Valencian oranges without losing its traditional essence. The project develops a visual identity and communication strategy capable of bringing the values of closeness, authenticity, and locally grown products into a contemporary context.",
+
+        "services": [
+          "Branding",
+          "Strategy",
+          "Communication"
+        ],
+
+        "area": [
+          "Visual Identity",
+          "Packaging",
+          "Media"
+        ]
+      },
+
+      "context": {
+        "title": "CONTEXT",
+
+        "text": "The Valencian agricultural sector is saturated with generic, undifferentiated products. Our goal is to transform a traditional family business into a brand with its own distinct identity.",
+
+        "cards": [
+          {
+            "title": "Generic product",
+            "text": "Difficulty standing out in a saturated market."
+          },
+
+          {
+            "title": "Family business",
+            "text": "More than 50 years of tradition and local sales."
+          },
+
+          {
+            "title": "Oportunity",
+            "text": "Create an emotional, approachable, and contemporary brand."
+          }
+        ]
+      },
+
+      "strategy": {
+        "title": "STRATEGY",
+
+        "text": "A strategy based on closeness, authenticity, and the value of locally grown Valencian products.",
+
+        "image": "media/branding/tarongea/strategy/strategy.jpg",
+
+        "values": [
+  {
+    "title": "Closeness",
+    "text": "Direct and human connection.",
+    "icon": "ri-map-pin-line"
+  },
+  {
+    "title": "Trust",
+    "text": "Quality and transparency.",
+    "icon": "ri-shield-line"
+  },
+  {
+    "title": "Naturalness",
+    "text": "Authentic Valencian product.",
+    "icon": "ri-leaf-line"
+  },
+  {
+    "title": "Experience",
+    "text": "More than just a product.",
+    "icon": "ri-user-heart-line"
+  }
+]
+      },
+
+      "identity": {
+        "title": "IDENTITY",
+
+        "text": "We created a fresh, natural, and contemporary visual identity, inspired by the organic shapes of leaves and fruit, as well as the vibrant colors of the Mediterranean.",
+
+        "logo": "media/branding/tarongea/logo-tarongea.svg",
+
+        "pattern": "media/branding/tarongea/pattern.png",
+
+        "colors": [
+  {
+    "pantone": "2935 C",
+    "hex": "#0057B8"
+  },
+
+  {
+    "pantone": "1235 C",
+    "hex": "#F5B400"
+  },
+
+  {
+    "pantone": "375 C",
+    "hex": "#95C11E"
+  }
+]
+      },
+
+      "applications": {
+        "title": "APPLICATIONS",
+
+        "images": [
+          "media/branding/tarongea/applications/box.jpg",
+          "media/branding/tarongea/applications/cup.jpg",
+          "media/branding/tarongea/applications/tag.jpg",
+          "media/branding/tarongea/applications/bag.jpg",
+          "media/branding/tarongea/applications/bag2.jpg"
+        ]
+      },
+
+      "digital": {
+        "title": "DIGITAL",
+
+        "text": "We designed a digital experience focused on clarity, closeness, and the authenticity of the brand. The website brings the values of locally grown Valencian products into a contemporary environment, improving direct communication with customers and strengthening Tarongea’s visual identity in the digital space.",
+
+        "desktop": "media/branding/tarongea/digital/desktop.webp"
+      },
+
+      "communication": {
+
+  "title": "MEDIA",
+
+  "text": "Vertical content designed for digital platforms, live event promotion, and community engagement through dynamic motorsport communication.",
+
+  "items": [
+
+    "media/branding/tarongea/communication/offline.jpg",
+
+    "media/branding/tarongea/communication/social.mp4"
+
+  ]
+},
+
+"downloads": {
+
+  "title": "RESOURCES",
+
+  "text": "Download some resources related to the project.",
+
+  "items": [
+
+    {
+      "type": "ZIP",
+      "title": "Graphic Assets",
+      "file": "media/branding/tarongea/downloads/tarongea-assets.zip"
+    },
+
+          {
+            "type": "PDF",
+
+            "title": "Presentation",
+
+            "file": "media/branding/tarongea/downloads/tarongea-presentation.pdf"
+          }
+        ]
+      }
+    }
+,
+
+    {
+      "slug": "nacca-design",
+      "title": "Nacca Design",
+      "category": "Branding",
+      "subtitle": "Personal Brand",
+      "year": "2019",
+      "featured": true,
+
+      "thumbnail": "media/branding/nacca/nacca",
+
+      "hero": {
+        "logo": "media/branding/nacca/logo-nacca.svg",
+        "image": "media/branding/nacca/hero.jpg",
+
+        "description": "Every designer needs to identify with a brand that supports them and makes their work recognizable — a personal signature aligned with their style, vision, and way of understanding the world of design. This is how Nacca Design was born, or in other words: my own personal brand.",
+
+        "services": [
+          "Branding",
+          "Art Direction",
+          "Editorial"
+        ],
+
+        "area": [
+          "Visual Identity",
+          "Graphic Systems",
+          "Communication"
+        ]
+      },
+
+      "context": {
+        "title": "CONTEXT",
+
+        "text": "In an increasingly saturated creative environment, Nacca Design emerges as a pursuit of differentiation and visual coherence. The project proposes a graphic system capable of unifying identity, communication, and art direction through a clean, modular, and recognizable visual language.",
+
+        "cards": [
+          {
+            "title": "Personal Brand",
+            "text": "Build a unique identity capable of reflecting visual criteria and personality."
+          },
+
+          {
+            "title": "Modular System",
+            "text": "Develop a flexible graphic language adaptable across multiple platforms and formats."
+          },
+
+          {
+            "title": "Minimalism",
+            "text": "Visual synthesis based on geometry, structure, and compositional clarity."
+          }
+        ]
+      },
+
+
+      "identity": {
+        "title": "IDENTITY",
+
+        "text": "The identity of Nacca Design is built around a modular symbol system inspired by structure, rhythm, and geometric reduction. Through repetition, proportion, and minimalism, the visual language creates a flexible and recognizable graphic system adaptable across digital and physical applications. A restrained, material-inspired color palette reinforces the balance between precision, functionality, and contemporary aesthetics throughout the entire identity.",
+
+        "logo": "media/branding/nacca/logo-nacca2.svg",
+
+        "pattern": "media/branding/nacca/pattern.png",
+
+        "colors": [
+  {
+    "pantone": "656 C",
+    "hex": "#F1F1F3"
+  },
+
+  {
+    "pantone": "545 C",
+    "hex": "#D0DAE3"
+  },
+
+  {
+    "pantone": "433 C",
+    "hex": "#261C1D"
+  },
+
+  {
+    "pantone": "2279 C",
+    "hex": "#80793B"
+  }
+]
+      },
+
+      "applications": {
+        "title": "APPLICATIONS",
+
+        "images": [
+          "media/branding/nacca/applications/cards.jpg",
+          "media/branding/nacca/applications/notebook.jpg",
+          "media/branding/nacca/applications/bag.jpg",
+          "media/branding/nacca/applications/bottle.jpg",
+          "media/branding/nacca/applications/totebag2.jpg"
+        ]
+      },
+
+      "digital": {
+        "title": "DIGITAL",
+
+        "text": "The digital experience translates the visual identity of Nacca Design into a clean and structured interface where typography, composition, and motion reinforce the modular nature of the brand. Minimal layouts, restrained interactions, and a neutral visual environment create a contemporary platform focused on clarity, usability, and visual consistency.",
+
+        "desktop": "media/branding/nacca/digital/desktop.jpg"
+      },
+
+      "downloads": {
+        "title": "RESOURCES",
+
+        "text": "Download some resources related to the project.",
+
+        "items": [
+          {
+            "type": "PDF",
+
+            "title": "Basic Brand Guidelines",
+
+            "file": "media/branding/nacca/downloads/nacca-manual.pdf"
+          },
+
+          {
+            "type": "ZIP",
+
+            "title": "Graphic Assets",
+
+            "file": "media/branding/nacca/downloads/nacca-assets.zip"
+          }
+        ]
+      }
+    },
+
+    {
+      "slug": "lacueva-racing",
+      "title": "LaCueva Racing",
+      "category": "Branding & Communication",
+      "subtitle": "",
+      "year": "2020",
+      "featured": true,
+
+      "thumbnail": "media/branding/lcv/lcv",
+
+      "hero": {
+        "logo": "media/branding/lcv/logo-lacueva.svg",
+        "image": "media/branding/lcv/hero.jpg",
+
+        "description": "LaCueva Racing is a SimRacing community focused on competitive virtual motorsport experiences and digital racing events. Developed during the rise of online communities in 2020, the project required a scalable visual identity system.",
+
+        "services": [
+          "Branding",
+          "Broadcast",
+          "Communication"
+        ],
+
+        "area": [
+          "Esports",
+          "Motorsport",
+          "Streaming"
+        ]
+      },
+
+      "context": {
+        "title": "CONTEXT",
+
+        "text": "Born during the global lockdown in 2020, LaCueva Racing emerged as a virtual motorsport community focused on competitive SimRacing experiences. As the project evolved, the brand required a scalable visual identity capable of supporting championships, live events, digital communication, and social media content across multiple racing platforms.",
+
+        "cards": [
+          {
+            "title": "Competitive Community",
+            "text": "Virtual racing events built around competition and community."
+          },
+
+          {
+            "title": "Digital Motorsport",
+            "text": "Broadcast graphics and content for SimRacing championships."
+          },
+
+          {
+            "title": "Scalable Identity",
+            "text": "A flexible visual system inspired by motorsport culture."
+          }
+        ]
+      },
+
+      "strategy": {
+        "title": "STRATEGY",
+
+        "text": "A strategy focused on competition, community, and digital motorsport culture. The visual system was designed to create a recognizable identity capable of supporting events, broadcasts, and online communication across multiple platforms.",
+
+        "image": "media/branding/lcv/strategy/strategy.jpg",
+
+        "values": [
+  {
+    "title": "Competition",
+    "text": "Competitive motorsport identity.",
+    "icon": "ri-trophy-line"
+  },
+  {
+    "title": "Community",
+    "text": "Drivers and audience connected.",
+    "icon": "ri-group-line"
+  },
+  {
+    "title": "Recognition",
+    "text": "Bold digital presence.",
+    "icon": "ri-flashlight-line"
+  },
+  {
+    "title": "Consistency",
+    "text": "Scalable communication system.",
+    "icon": "ri-user-grid-line"
+  }
+]
+      },
+
+      "identity": {
+        "title": "IDENTITY",
+
+        "text": "The identity system combines bold typography, angular geometries, and high-contrast compositions inspired by motorsport graphics and broadcast communication. Dynamic layouts, repetitive patterns, and vibrant orange accents reinforce the competitive and energetic nature of the brand across digital and promotional applications.",
+
+        "logo": "media/branding/lcv/logo-lacueva.svg",
+
+        "pattern": "media/branding/lcv/pattern.png",
+
+        "colors": [
+  {
+    "pantone": "151 C",
+    "hex": "#FF8200"
+  },
+
+  {
+    "pantone": "4545 C",
+    "hex": "#F3EFDB"
+  },
+
+  {
+    "pantone": "BLACK 7C",
+    "hex": "#3D3935"
+  }
+]
+      },
+
+      "applications": {
+        "title": "APPLICATIONS",
+
+        "images": [
+          "media/branding/lcv/applications/card.jpg",
+          "media/branding/lcv/applications/licence.jpg",
+          "media/branding/lcv/applications/calendar.jpg",
+          "media/branding/lcv/applications/trophy.jpg",
+          "media/branding/lcv/applications/mic.jpg"
+        ]
+      },
+
+"videoGrid": {
+
+  "title": "MOTION GRAPHICS",
+
+  "text": "Animated broadcast graphics and visual pieces designed to reinforce the competitive identity of the community across streams, events, and digital content.",
+
+  "videos": [
+
+    "media/branding/lcv/video/wait.mp4",
+
+    "media/branding/lcv/video/intro.mp4"
+
+  ]
+},
+
+      "communication": {
+
+  "title": "MEDIA",
+
+  "text": "Content designed for digital platforms, event promotion, and community engagement through dynamic motorsport communication.",
+
+  "items": [
+
+    "media/branding/lcv/communication/car-card.mp4",
+
+    "media/branding/lcv/communication/winner.mp4",
+
+    "media/branding/lcv/communication/announce.mp4",
+
+    "media/branding/lcv/communication/hype.mp4"
+
+  ]
+}
+
+      
+    },
+
+{
+      "slug": "nutrimarietas",
+      "title": "Nutri Marietas",
+      "category": "Branding & Communication",
+      "subtitle": "Nutrición · Bienestar · Equilibrio",
+      "year": "2019",
+      "featured": true,
+
+      "thumbnail": "media/branding/nutrimarietas/nutrimarietas",
+
+      "hero": {
+        "logo": "media/branding/nutrimarietas/logo-nutrimarietas.svg",
+        "image": "media/branding/nutrimarietas/hero.jpg",
+
+        "description": "NutriMarietas is a nutrition and wellness brand built around a close, natural, and recognizable visual identity. The project aims to communicate healthy habits and trust through a fresh, dynamic, and accessible communication style for all audiences.",
+
+        "services": [
+          "Branding",
+          "Social Media Design",
+          "Visual Communication"
+        ],
+
+        "area": [
+          "Nutrition",
+          "Wellness",
+          "Health & Lifestyle"
+        ]
+      },
+
+      "context": {
+        "title": "CONTEXT",
+
+        "text": "The nutrition and wellness sector is saturated with generic and highly technical communication styles that often feel distant or impersonal. NutriMarietas was created to build a fresh, approachable, and recognizable brand identity capable of connecting with people through clear communication, healthy lifestyle values, and a friendly visual language.",
+
+        "cards": [
+          {
+            "title": "Wellness Brand",
+            "text": "A fresh identity focused on nutrition and healthy habits."
+          },
+
+          {
+            "title": "Approachable Communication",
+            "text": "Friendly and accessible visual language for all audiences."
+          },
+
+          {
+            "title": "Recognizable System",
+            "text": "A flexible identity built around organic shapes and color."
+          }
+        ]
+      },
+
+      "strategy": {
+        "title": "STRATEGY",
+
+        "text": "A strategy focused on clarity, closeness, and positive communication. The visual system was designed to create a fresh and approachable identity capable of connecting nutrition and wellness through a recognizable and flexible graphic language.",
+
+        "image": "media/branding/nutrimarietas/strategy/strategy.jpg",
+
+        "values": [
+  {
+    "title": "Closeness",
+    "text": "Friendly visual communication.",
+    "icon": "ri-chat-smile-line"
+  },
+  {
+    "title": "Wellness",
+    "text": "Healthy lifestyle focused.",
+    "icon": "ri-heart-pulse-line"
+  },
+  {
+    "title": "Naturalness",
+    "text": "Organic and fresh identity.",
+    "icon": "ri-leaf-line"
+  },
+  {
+    "title": "Trust",
+    "text": "Clear and approachable brand.",
+    "icon": "ri-shield-check-line"
+  }
+]
+      },
+
+      "identity": {
+        "title": "IDENTITY",
+
+        "text": "The visual identity combines organic shapes, vibrant colors, and approachable graphic elements to create a fresh and recognizable brand system. Inspired by concepts of wellness, balance, and natural nutrition, the identity uses a friendly visual language capable of adapting consistently across both digital and physical communication materials.",
+
+        "logo": "media/branding/nutrimarietas/logo-nutrimarietas.svg",
+
+        "pattern": "media/branding/nutrimarietas/pattern.png",
+
+        "colors": [
+  {
+    "pantone": "179 C",
+    "hex": "#E03C31"
+  },
+
+  {
+    "pantone": "583 C",
+    "hex": "#B7BF10"
+  },
+
+  {
+    "pantone": "NEUTRAL BLACK C",
+    "hex": "#2D2926"
+  }
+]
+      },
+
+      "applications": {
+        "title": "APPLICATIONS",
+
+        "images": [
+          "media/branding/nutrimarietas/applications/card.jpg",
+          "media/branding/nutrimarietas/applications/totebag.jpg",
+          "media/branding/nutrimarietas/applications/bottle.jpg",
+          "media/branding/nutrimarietas/applications/tag.jpg",
+          "media/branding/nutrimarietas/applications/paper.jpg"
+        ]
+      },
+
+      "downloads": {
+        "title": "RESOURCES",
+
+        "text": "Download some resources related to the project.",
+
+        "items": [
+          {
+            "type": "PDF",
+
+            "title": "Basic Brand Guidelines",
+
+            "file": "media/branding/nutrimarietas/downloads/nutrimarietas-manual.pdf"
+          },
+
+          {
+            "type": "ZIP",
+
+            "title": "Graphic Assets",
+
+            "file": "media/branding/nutrimarietas/downloads/nutrimarietas-assets.zip"
+          }
+        ]
+      }
+    }
+  ],
+
+  "packaging": [
+
+{
+      "slug": "lou-packaging",
+      "title": "LOU",
+      "category": "Product & Packaging",
+      "subtitle": "Packaging",
+      "year": "2018",
+      "featured": true,
+
+      "thumbnail": "media/packaging/lou/lou",
+
+      "hero": {
+        "logo": "media/packaging/lou/logo-lou.svg",
+        "image": "media/packaging/lou/hero.jpg",
+
+        "description": "A packaging design project developed for the LOU hanger family, focused on elevating the product experience through structure, presentation, and visual communication. Inspired by Nordic and Mediterranean design principles, the proposal combines functionality, simplicity, and attention to detail.",
+
+        "services": [
+          "Packagin Design",
+          "Branding",
+          "Editorial Design"
+        ],
+
+        "area": [
+          "Furniture",
+          "Product Design",
+          "Retail & Packaging"
+        ]
+      },
+
+      "context": {
+        "title": "CONTEXT",
+
+        "text": "The project was developed as a packaging proposal for the LOU hanger family, aiming to improve both product presentation and user experience. The challenge focused on creating a functional and visually refined solution aligned with contemporary furniture and interior design aesthetics.",
+
+"cards": [
+  {
+    "title": "Packaging System",
+    "text": "A functional solution designed for the LOU hanger collection."
+  },
+
+  {
+    "title": "Product Experience",
+    "text": "Focused on presentation, usability, and visual clarity."
+  },
+
+  {
+    "title": "Minimal Aesthetics",
+    "text": "Inspired by contemporary furniture and editorial design."
+  }
+]
+      },
+
+"strategy": {
+        "title": "STRATEGY",
+
+        "text": "The strategy was based on simplifying the packaging experience while maximizing product perception. Structural efficiency, clean graphics, and modular organization were combined to create a system that felt both functional and carefully crafted, reinforcing the premium and contemporary character of the LOU collection.",
+
+        "image": "media/packaging/lou/strategy/strategy.jpg",
+
+        "values": [
+  {
+    "title": "Functionality",
+    "text": "Designed for protection and usability.",
+    "icon": "ri-layout-masonry-line"
+  },
+  {
+    "title": "Simplicity",
+    "text": "Clean and minimal visual approach.",
+    "icon": "ri-checkbox-blank-line"
+  },
+  {
+    "title": "Craftsmanship",
+    "text": "Attention to detail and materials.",
+    "icon": "ri-tools-line"
+  },
+  {
+    "title": "Consistency",
+    "text": "Unified structural and graphic system.",
+    "icon": "ri-grid-line"
+  }
+]
+      },
+
+
+      "identity": {
+        "title": "IDENTITY",
+
+        "text": "The identity of LOU is built around simplicity, geometry, and subtle visual meaning. The logo takes inspiration from the lower structure of the hanger collection itself, where each support shape naturally forms the letters L, O, and U. Combined with clean typography and minimalist composition, the system reflects the functional and contemporary character of the project.",
+
+        "logo": "media/packaging/lou/logo-lou.svg",
+
+        "pattern": "media/packaging/lou/logo-insp.jpg"
+   },
+
+      "applications": {
+        "title": "PACK CONTENT",
+
+        "images": [
+          "media/packaging/lou/content/full-content.jpg",
+          "media/packaging/lou/content/hang.jpg",
+          "media/packaging/lou/content/postcard.jpg",
+          "media/packaging/lou/content/nails.jpg",
+          "media/packaging/lou/content/content.jpg"
+        ]
+      },
+
+      "downloads": {
+        "title": "RESOURCES",
+
+        "text": "Download some resources related to the project.",
+
+        "items": [
+          {
+            "type": "ZIP",
+
+            "title": "Product Blueprint",
+
+            "file": "media/packaging/lou/downloads/lou-blueprints.zip"
+          },
+	  {
+            "type": "ZIP",
+
+            "title": "Digital Content",
+
+            "file": "media/packaging/lou/downloads/lou-digitalcontent.zip"
+          },
+	  {
+            "type": "PNG",
+
+            "title": "Logo",
+
+            "file": "media/packaging/lou/downloads/lou-logo.png"
+          },
+          {
+            "type": "PDF",
+
+            "title": "Presentation",
+
+            "file": "media/packaging/lou/downloads/lou-presentation.pdf"
+          }
+        ]
+      }
+    },
+
+    {
+      "slug": "legendario-navidad-2025",
+
+      "title": "Pack Navidad Legendario 2025",
+
+      "thumbnail": "media/packaging/navidadlegendario25/navidadlegendario25"
+    },
+
+    {
+      "slug": "legendario-influencers-2025",
+
+      "title": "Caja Influencers Legendario 2025",
+
+      "thumbnail": "media/packaging/influsleg25/influsleg25"
+    }
+  ],
+
+  "product": [
+    {
+      "slug": "ancla-chair",
+
+      "title": "Ancla Chair",
+
+      "thumbnail": "media/product/ancla/ancla"
+    },
+
+    {
+      "slug": "lou-wall-hanger",
+
+      "title": "LOU - Wall Hanger",
+
+      "thumbnail": "media/product/lou/lou"
+    },
+
+    {
+      "slug": "trico-boardgame",
+
+      "title": "Trico - Boardgame",
+
+      "thumbnail": "media/product/trico/trico"
+    },
+
+    {
+      "slug": "rumble-speaker",
+
+      "title": "Rumble - Speaker",
+
+      "thumbnail": "media/product/rumble/rumble"
+    },
+
+    {
+      "slug": "porsche-smartwatch",
+
+      "title": "Porsche Smartwatch",
+
+      "thumbnail": "media/product/smartwatch/smartwatch"
+    },
+
+    {
+      "slug": "intaka-bath-tap",
+
+      "title": "Intaka - Bath Tap",
+
+      "thumbnail": "media/product/intaka/intaka"
+    },
+
+    {
+      "slug": "girot-bowl-mixer",
+
+      "title": "Girot - Bowl Mixer",
+
+      "thumbnail": "media/product/girot/girot"
+    },
+
+    {
+      "slug": "corner",
+
+      "title": "Corner",
+
+      "thumbnail": "media/product/corner/corner"
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+<!--
+Descripción: Este archivo HTML contiene la página principal del sitio web.
+Estructura general:
+- Encabezado
+- Barra de navegación
+- Contenido principal
+- Pie de página
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Portfolio personal de diseño gráfico y producto.">
+    <title>Nacca Design Portfolio</title>
+    <link rel="stylesheet" href="css/index.css">
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@4.7.0/fonts/remixicon.min.css" rel="stylesheet">
+    <script defer src="js/index.js"></script>
+</head>
+<body>
+    <!-- HEADER -->
+    <header class="flex-row">
+        <nav class="header__nav activo flex-row">
+            <ul class="header__menu flex-row">
+                <li><a class="nav--link" href="index.html">Home</a></li>
+                <li><a class="nav--link" href="about-me.html">About</a></li>
+                <li><a class="nav--link" href="news.html">News</a></li>
+            </ul>
+            <div class="header__logo">
+                <img class="header__logo-imago" src="media/logo_nacca.svg" alt="Nacca Design Logo">
+            </div>
+            <ul class="header__menu flex-row">
+                <li><a class="nav--link" href="works.html">Works</a></li>
+                <li><a class="nav--link" href="price.html">Price</a></li>
+                <li><a class="nav--link" href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+        <nav class="header__nav-alternative activo hidden flex-column">
+            <div class="header__logo-alternative">
+                <svg xmlns="http://www.w3.org/2000/svg" width="50px" height="50px">
+                    <use class="logo-black" href="media/imagotipo_nacca.svg#imago-logo"></use>
+                </svg>
+            </div>
+            <ul class="header__menu-alternative flex-column">
+                <li><a class="nav--link" href="index.html">Home</a></li>
+                <li><a class="nav--link" href="about-me.html">About</a></li>
+                <li><a class="nav--link" href="news.html">News</a></li>
+                <li><a class="nav--link" href="works.html">Works</a></li>
+                <li><a class="nav--link" href="price.html">Price</a></li>
+                <li><a class="nav--link" href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <!-- BANNER SECTION -->
+        <section class="banner flex-column first-section">
+            <div class="banner__container flex-column">
+                <div class="banner__title flex-column">
+                    <h1 class="title-up text--xl">
+                        CREATIVE
+                    </h1>
+                    <h2 class="title-down text--xl">
+                        DESIGNER
+                    </h2>
+                </div>
+                <div class="banner__profile-photo flex-column">
+                    <picture>
+                        <!-- Desktop -->
+                        <source
+                            srcset="media/banner/profile-image-desktop.webp"
+                            type="image/webp"
+                            media="(min-width: 1024px)">
+                        <source
+                            srcset="media/banner/profile-image-desktop.png"
+                            media="(min-width: 1024px)">
+
+                        <!-- Tablet -->
+                        <source
+                            srcset="media/banner/profile-image-tablet.webp"
+                            type="image/webp"
+                            media="(min-width: 768px)">
+                        <source
+                            srcset="media/banner/profile-image-tablet.png"
+                            media="(min-width: 768px)">
+                        
+                        <!-- Mobile -->
+                        <img
+                            src="media/banner/profile-image-mobile.png"
+                            alt="Profile Photo">
+                    </picture>
+                </div>
+                <div class="banner__works">
+                    <h3 class="text--md">/  GRAPHIC DESIGNER</h3>
+                    <h3 class="text--md padding-left">/  PRODUCT DESIGNER</h3>
+                    <h3 class="text--md padding-left2">/  MOTION GRAPHICS</h3>
+                </div>
+            </div>
+        </section>
+        <!-- ABOUT ME SECTION -->
+        <section class="description">
+            <div class="description__container">
+                <h2 class="text--xl">WELCOME TO NACCA DESIGN</h2>
+                <p class="text--lg">My name is Sergio Navarro.<br>I'm a passionate graphic designer with a strong background in corporate design and branding.</p>
+                <p class="link text--lg"><a href="about-me.html">Do you want to find out more about me?<i class="ri-arrow-right-up-line"></i></a></p>
+            </div>
+        </section>
+        <!-- WORKS SECTION -->
+        <section class="disciplines flex-column">
+            <div class="disciplines__title">
+                <h2 class="text--xl"><b>What can I do?</b></h2>
+            </div>
+
+            <div class="disciplines__container">
+                <ul class="ul">
+                    <li class="li text--md"><a href="branding.html">BRANDING <i class="ri-arrow-right-up-line"></i></a></li>
+                    <li class="li text--md"><a href="packaging.html">PACKAGING <i class="ri-arrow-right-up-line"></i></a></li>
+                    <li class="li text--md"><a href="product.html">PRODUCT <i class="ri-arrow-right-up-line"></i></a></li>
+                </ul>
+
+                <div class="disciplines__subcontainer">
+                    <div class="block activo">
+                        <picture>
+                            <!-- Desktop -->
+                            <source
+                                srcset="media/disciplines/disciplines-lcv-desktop.webp"
+                                type="image/webp"
+                                media="(min-width: 1024px)">
+                            <source
+                                srcset="media/disciplines/disciplines-lcv-desktop.jpg"
+                                media="(min-width: 1024px)">
+
+                            <!-- Tablet -->
+                            <source
+                                srcset="media/disciplines/disciplines-lcv-tablet.webp"
+                                type="image/webp"
+                                media="(min-width: 768px)">
+                            <source
+                                srcset="media/disciplines/disciplines-lcv-tablet.jpg"
+                                media="(min-width: 768px)">
+                            
+                            <!-- Mobile -->
+                            <img
+                                src="media/disciplines/disciplines-lcv-mobile.jpg"
+                                alt="Imagen de branding">
+                        </picture>
+                    </div>
+                    <div class="block">
+                        <picture>
+                            <!-- Desktop -->
+                            <source
+                                srcset="media/disciplines/disciplines-legendario-desktop.webp"
+                                type="image/webp"
+                                media="(min-width: 1024px)">
+                            <source
+                                srcset="media/disciplines/disciplines-legendario-desktop.jpg"
+                                media="(min-width: 1024px)">
+
+                            <!-- Tablet -->
+                            <source
+                                srcset="media/disciplines/disciplines-legendario-tablet.webp"
+                                type="image/webp"
+                                media="(min-width: 768px)">
+                            <source
+                                srcset="media/disciplines/disciplines-legendario-tablet.jpg"
+                                media="(min-width: 768px)">
+                            
+                            <!-- Mobile -->
+                            <img
+                                src="media/disciplines/disciplines-legendario-mobile.jpg"
+                                alt="Imagen de Packaging">
+                        </picture>
+                    </div>
+                    <div class="block">
+                        <picture>
+                            <!-- Desktop -->
+                            <source
+                                srcset="media/disciplines/disciplines-lou-desktop.webp"
+                                type="image/webp"
+                                media="(min-width: 1024px)">
+                            <source
+                                srcset="media/disciplines/disciplines-lou-desktop.jpg"
+                                media="(min-width: 1024px)">
+
+                            <!-- Tablet -->
+                            <source
+                                srcset="media/disciplines/disciplines-lou-tablet.webp"
+                                type="image/webp"
+                                media="(min-width: 768px)">
+                            <source
+                                srcset="media/disciplines/disciplines-lou-tablet.jpg"
+                                media="(min-width: 768px)">
+                            
+                            <!-- Mobile -->
+                            <img
+                                src="media/disciplines/disciplines-lou-mobile.jpg"
+                                alt="Imagen de Product">
+                        </picture>
+                    </div>
+                </div>
+            </div>
+            <!-- WORKS SECTION FOR MOBILES -->
+            <div class="disciplines__container-alternative flex-column">
+                <div class="preview work1">
+                    <a class="text--lg subtitle" href="branding.html">BRANDING</a>
+                </div>
+                <div class="preview work2">
+                    <a class="text--lg subtitle" href="packaging.html">PACKAGING</a>
+                </div>
+                <div class="preview work3">
+                    <a class="text--lg subtitle" href="product.html">PRODUCT</a>
+                </div>
+            </div>
+        </section>
+        <!-- CONTACT SECTION -->
+        <section class="contact">
+            <div class="contact__title flex-column">
+                <h2 class="text--xl"><b>I'ts a match!</b></h2>
+                <a href="contact.html" class="link text--lg">Let's make amazing things together <i class="ri-arrow-right-up-line"></i></a>
+            </div>
+            <!--<div class="contact__container flex-column">
+                
+                <div class="contact__block flex-row">
+
+                    <div class="contact__map">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8711.206036557029!2d-0.3786235730954706!3d39.47212022555723!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd604f27f56441d9%3A0x1b872da159a8de84!2sEstaci%C3%B3n%20del%20Norte!5e0!3m2!1ses!2ses!4v1768494781909!5m2!1ses!2ses" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
+
+                    <div class="contact__form flex-column">
+                        <h2 class="text--lg"> Contact me</h2>
+                        <p class="body"> You can also check other ways to contact on the contact page.</p>
+                        <form action="#" method="GET">
+                            <div class="flex-row data">
+                                <label for="name"></label>
+                                <input id="name" name="name" type="text" placeholder="Name">
+
+                                <label for="surname"></label>
+                                <input id="surname" name="surname" type="text" placeholder="Surname">
+                            </div>
+                            <label for="email"></label>
+                            <input id="email" name="email" type="email" placeholder="E-mail">
+
+                            <label for="news"></label>
+                            <select name="news" id="news">
+                                <option value="branding">Branding</option>
+                                <option value="packaging">Packaging</option>
+                                <option value="Product">Product</option>
+                            </select>
+
+                            <div class="flex-row acceptance">
+                                <label for="privacy"></label>
+                                <input type="checkbox">
+                                <span>
+                                    I have read and accept the <b>privacy policy.</b>
+                                </span>
+                            </div>
+
+                            <input class="submit" type="submit" value="Send">
+                        </form>
+                    </div>
+                </div>
+            </div>-->
+        </section>
+    </main>
+    <!-- FOOTER -->
+    <footer>
+        <div class="footer__wrap flex-column">
+            <div class="footer__top flex-row">
+                <svg xmlns="http://www.w3.org/2000/svg" width="50px" height="50px">
+                    <use class="logo-light" href="media/imagotipo_nacca.svg#imago-logo"></use>
+                </svg>
+                <div class="footer__rrss flex-row">
+                    <!--<a href="#"> <i class="ri-instagram-line"></i> </a>
+                    <a href=""> <i class="ri-twitter-x-line"></i> </a>-->
+                    <a href="https://www.behance.net/naccadesign" target="_blank"> <i class="ri-behance-line"></i> </a>
+                    <a href="https://www.linkedin.com/in/sernacca/" target="_blank"> <i class="ri-linkedin-line"></i> </a>
+                </div>
+            </div>
+
+            <!--<div class="footer__bot flex-row">
+                <a class="link" href="">Legal Notice</a>
+                <a class="link" href="">Privacy Policy</a>
+                <a class="link" href="">Cookies Policy</a>
+            </div>-->
+        </div>
+    </footer>
+
+    <!-- SCROLL UP FIXED BUTTON -->
+    <button class="scroll-top hidden btn btn--trans" aria-label="Volver arriba"><i class="ri-arrow-up-line"></i></button>
+</body>
+</html>

@@ -1,0 +1,90 @@
+<!--
+Descripción: Este archivo HTML contiene la página correspondiente al apartado "Packaging".
+Estructura general:
+- Encabezado
+- Barra de navegación
+- Contenido principal
+- Pie de página
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nacca Design Packaging</title>
+    <link rel="stylesheet" href="css/index.css">
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@4.7.0/fonts/remixicon.min.css" rel="stylesheet">
+    <script defer src="js/index.js"></script>
+</head>
+<body>
+    <!-- HEADER -->
+    <header class="flex-row">
+        <nav class="header__nav activo flex-row">
+            <ul class="header__menu flex-row">
+                <li><a class="nav--link" href="index.html">Home</a></li>
+                <li><a class="nav--link" href="about-me.html">About</a></li>
+                <li><a class="nav--link" href="news.html">News</a></li>
+            </ul>
+            <div class="header__logo">
+                <img class="header__logo-imago" src="media/logo_nacca.svg" alt="Nacca Design Logo">
+            </div>
+            <ul class="header__menu flex-row">
+                <li><a class="nav--link" href="works.html">Works</a></li>
+                <li><a class="nav--link" href="price.html">Price</a></li>
+                <li><a class="nav--link" href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+        <nav class="header__nav-alternative activo hidden flex-column">
+            <div class="header__logo-alternative">
+                <svg xmlns="http://www.w3.org/2000/svg" width="50px" height="50px">
+                    <use class="logo-black" href="media/imagotipo_nacca.svg#imago-logo"></use>
+                </svg>
+            </div>
+            <ul class="header__menu-alternative flex-column">
+                <li><a class="nav--link" href="index.html">Home</a></li>
+                <li><a class="nav--link" href="about-me.html">About</a></li>
+                <li><a class="nav--link" href="news.html">News</a></li>
+                <li><a class="nav--link" href="works.html">Works</a></li>
+                <li><a class="nav--link" href="price.html">Price</a></li>
+                <li><a class="nav--link" href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <!-- TITLE SECTION -->
+        <section class="title first-section">
+            <div class="about__title">
+                <h2 class="text--xl"><b>PACKAGING</b></h2>
+            </div>
+        </section>
+        <!-- GRID SECTION -->
+        <section class="grid flex-column">
+            <div class="grid-proyectos" data-categoria="packaging"></div>
+        </section>
+    </main>
+    <!-- FOOTER -->
+    <footer>
+        <div class="footer__wrap flex-column">
+            <div class="footer__top flex-row">
+                <svg xmlns="http://www.w3.org/2000/svg" width="50px" height="50px">
+                    <use class="logo-light" href="media/imagotipo_nacca.svg#imago-logo"></use>
+                </svg>
+                <div class="footer__rrss flex-row">
+                    <!--<a href="#"> <i class="ri-instagram-line"></i> </a>
+                    <a href=""> <i class="ri-twitter-x-line"></i> </a>-->
+                    <a href="https://www.behance.net/naccadesign" target="_blank"> <i class="ri-behance-line"></i> </a>
+                    <a href="https://www.linkedin.com/in/sernacca/" target="_blank"> <i class="ri-linkedin-line"></i> </a>
+                </div>
+            </div>
+
+            <!--<div class="footer__bot flex-row">
+                <a class="link" href="">Legal Notice</a>
+                <a class="link" href="">Privacy Policy</a>
+                <a class="link" href="">Cookies Policy</a>
+            </div>-->
+        </div>
+    </footer>
+    <!-- SCROLL UP FIXED BUTTON -->
+    <button class="scroll-top hidden btn btn--trans" aria-label="Volver arriba"><i class="ri-arrow-up-line"></i></button>
+</body>

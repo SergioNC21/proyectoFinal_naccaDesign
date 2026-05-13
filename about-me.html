@@ -1,0 +1,171 @@
+<!--
+Descripción: Este archivo HTML contiene la página correspondiente al apartado "About me".
+Estructura general:
+- Encabezado
+- Barra de navegación
+- Contenido principal
+- Pie de página
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nacca Design About Me</title>
+    <link rel="stylesheet" href="css/index.css">
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@4.7.0/fonts/remixicon.min.css" rel="stylesheet">
+    <script defer src="js/index.js"></script>
+</head>
+<body>
+    <!-- HEADER -->
+    <header class="flex-row">
+        <nav class="header__nav activo flex-row">
+            <ul class="header__menu flex-row">
+                <li><a class="nav--link" href="index.html">Home</a></li>
+                <li><a class="nav--link" href="about-me.html">About</a></li>
+                <li><a class="nav--link" href="news.html">News</a></li>
+            </ul>
+            <div class="header__logo">
+                <img class="header__logo-imago" src="media/logo_nacca.svg" alt="Nacca Design Logo">
+            </div>
+            <ul class="header__menu flex-row">
+                <li><a class="nav--link" href="works.html">Works</a></li>
+                <li><a class="nav--link" href="price.html">Price</a></li>
+                <li><a class="nav--link" href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+        <nav class="header__nav-alternative activo hidden flex-column">
+            <div class="header__logo-alternative">
+                <svg xmlns="http://www.w3.org/2000/svg" width="50px" height="50px">
+                    <use class="logo-black" href="media/imagotipo_nacca.svg#imago-logo"></use>
+                </svg>
+            </div>
+            <ul class="header__menu-alternative flex-column">
+                <li><a class="nav--link" href="index.html">Home</a></li>
+                <li><a class="nav--link" href="about-me.html">About</a></li>
+                <li><a class="nav--link" href="news.html">News</a></li>
+                <li><a class="nav--link" href="works.html">Works</a></li>
+                <li><a class="nav--link" href="price.html">Price</a></li>
+                <li><a class="nav--link" href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <!-- TITLE SECTION -->
+        <section class="title first-section">
+            <div class="about__title">
+                <h2 class="text--xl"><b>Let's talk!</b></h2>
+            </div>
+        </section>
+        <!-- BANNER SECTION -->
+        <section class="banner flex-column">
+            <div class="banner__container flex-column">
+                <div class="banner__title flex-column">
+                    <h1 class="title-up text--xl">
+                        SERGIO
+                    </h1>
+                    <h2 class="title-down text--xl">
+                        NAVARRO
+                    </h2>
+                </div>
+                <div class="banner__profile-photo flex-column">
+                    <picture>
+                        <!-- Desktop -->
+                        <source
+                            srcset="media/banner/profile-image-desktop.webp"
+                            type="image/webp"
+                            media="(min-width: 1024px)">
+                        <source
+                            srcset="media/banner/profile-image-desktop.png"
+                            media="(min-width: 1024px)">
+
+                        <!-- Tablet -->
+                        <source
+                            srcset="media/banner/profile-image-tablet.webp"
+                            type="image/webp"
+                            media="(min-width: 768px)">
+                        <source
+                            srcset="media/banner/profile-image-tablet.png"
+                            media="(min-width: 768px)">
+                        
+                        <!-- Mobile -->
+                        <img
+                            src="media/banner/profile-image-mobile.png"
+                            alt="Profile Photo">
+                    </picture>
+                </div>
+                <div class="banner__works">
+                    <h3 class="text--md">/  GRAPHIC DESIGNER</h3>
+                    <h3 class="text--md padding-left">/  PRODUCT DESIGNER</h3>
+                    <h3 class="text--md padding-left2">/  MOTION GRAPHICS</h3>
+                </div>
+            </div>
+        </section>
+        <!-- ABOUT ME BLOCK -->
+        <section class="about">
+            <div class="about__container flex-row">
+                <div class="about__image">
+                    <picture>
+                        <!-- Desktop -->
+                        <source
+                            srcset="media/about/about-image-desktop.webp"
+                            type="image/webp"
+                            media="(min-width: 1024px)">
+                        <source
+                            srcset="media/about/about-image-desktop.jpg"
+                            media="(min-width: 1024px)">
+
+                        <!-- Tablet -->
+                        <source
+                            srcset="media/about/about-image-tablet.webp"
+                            type="image/webp"
+                            media="(min-width: 768px)">
+                        <source
+                            srcset="media/about/about-image-tablet.jpg"
+                            media="(min-width: 768px)">
+                        
+                        <!-- Mobile -->
+                        <img
+                            src="media/about/about-image-mobile.jpg"
+                            alt="Profile Photo">
+                    </picture>
+                </div>
+                <div class="about__content flex-column">
+                    <div class="miau flex-column">
+                        <h2 class="text--xl">Who I am?</h2>
+                        <h4 class="text--sm">Hi! I'm Sergio.</h4>
+                    </div>
+
+                    <div class="flex-column">
+                        <p class="body">I am a passionate graphic designer with solid experience in brand identity, signage and social media content. My focus is on creating practical and effective visual identities. I enjoy working on challenging projects that allow me to apply creativity, strong communication skills, and attention to detail. I am always eager to learn, grow professionally, and explore new opportunities in design.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <!-- FOOTER -->
+    <footer>
+        <div class="footer__wrap flex-column">
+            <div class="footer__top flex-row">
+                <svg xmlns="http://www.w3.org/2000/svg" width="50px" height="50px">
+                    <use class="logo-light" href="media/imagotipo_nacca.svg#imago-logo"></use>
+                </svg>
+                <div class="footer__rrss flex-row">
+                    <!--<a href="#"> <i class="ri-instagram-line"></i> </a>
+                    <a href=""> <i class="ri-twitter-x-line"></i> </a>-->
+                    <a href="https://www.behance.net/naccadesign" target="_blank"> <i class="ri-behance-line"></i> </a>
+                    <a href="https://www.linkedin.com/in/sernacca/" target="_blank"> <i class="ri-linkedin-line"></i> </a>
+                </div>
+            </div>
+
+            <!--<div class="footer__bot flex-row">
+                <a class="link" href="">Legal Notice</a>
+                <a class="link" href="">Privacy Policy</a>
+                <a class="link" href="">Cookies Policy</a>
+            </div>-->
+        </div>
+    </footer>
+    <!-- SCROLL UP FIXED BUTTON -->
+    <button class="scroll-top hidden btn btn--trans" aria-label="Volver arriba"><i class="ri-arrow-up-line"></i></button>
+</body>

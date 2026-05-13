@@ -1,0 +1,76 @@
+{
+  "branding": [
+    {
+      "titulo": "Tarongea",
+      "imagen": "media/branding/tarongea/tarongea"
+    },
+    {
+      "titulo": "Nacca Design",
+      "imagen": "media/branding/nacca/nacca"
+    },
+    {
+      "titulo": "LaCueva Racing",
+      "imagen": "media/branding/lcv/lcv"
+    },
+    {
+      "titulo": "NutriMarietas",
+      "imagen": "media/branding/nutrimarietas/nutrimarietas"
+    },
+    {
+      "titulo": "Watford Badge Redesign",
+      "imagen": "media/branding/watford/watford"
+    },
+    {
+      "titulo": "Xufa F1 Team",
+      "imagen": "media/branding/xufa/xufa"
+    }
+  ],
+  "packaging": [
+    {
+      "titulo": "LOU",
+      "imagen": "media/packaging/lou/lou"
+    },
+    {
+      "titulo": "Pack Navidad Legendario 2025",
+      "imagen": "media/packaging/navidadlegendario25/navidadlegendario25"
+    },
+    {
+      "titulo": "Caja Influencers Legendario 2025",
+      "imagen": "media/packaging/influsleg25/influsleg25"
+    }
+  ],
+  "product": [
+    {
+      "titulo": "Ancla Chair",
+      "imagen": "media/product/ancla/ancla"
+    },
+    {
+      "titulo": "LOU - Wall hanger",
+      "imagen": "media/product/lou/lou"
+    },
+    {
+      "titulo": "Trico - Boardgame",
+      "imagen": "media/product/trico/trico"
+    },
+    {
+      "titulo": "Rumble - Speaker",
+      "imagen": "media/product/rumble/rumble"
+    },
+    {
+      "titulo": "Porsche Smartwatch",
+      "imagen": "media/product/smartwatch/smartwatch"
+    },
+    {
+      "titulo": "Intaka - Bath Tap",
+      "imagen": "media/product/intaka/intaka"
+    },
+    {
+      "titulo": "Girot - Bowl Mixer",
+      "imagen": "media/product/girot/girot"
+    },
+    {
+      "titulo": "Corner",
+      "imagen": "media/product/corner/corner"
+    }
+  ]
+}
